@@ -32,5 +32,5 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot**, que implementa
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd nome-do-projeto
+git clone https://github.com/WillerHenrique/auth-api-jwt.git
+cd auth-api-jwt
